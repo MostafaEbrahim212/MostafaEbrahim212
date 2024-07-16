@@ -1,7 +1,7 @@
 # Hi there 👋
 
 ## About Me
-Backend developer with Laravel and frontend developer with HTML, CSS, JS, Tailwind, and Bootstrap. Passionate about building web applications that make a difference.
+Backend developer with Laravel and frontend developer with HTML, CSS, JS, Tailwind. Passionate about building web applications that make a difference.
 
 ## Personal Information
 - **Age:** 22 years old, almost 23 😁
