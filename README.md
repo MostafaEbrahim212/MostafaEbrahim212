@@ -4,7 +4,7 @@
 Backend developer with Laravel and frontend developer with HTML, CSS, JS, Tailwind. Passionate about building web applications that make a difference.
 
 ## Personal Information
-- **Age:** 22 years old, almost 23 😁
+- **Age:** 25 years old, almost 26 😁
 - **Date of Birth:** December 2, 2001
 - **Location:** Mansoura, Dakahlia, Egypt
 - **Education:** Graduated from the Faculty of Computers and Information, Mansoura University, majoring in Computer Science (CS).
