@@ -8,7 +8,7 @@ Backend developer with Laravel and frontend developer with HTML, CSS, JS, Tailwi
 - **Date of Birth:** December 2, 2001
 - **Location:** Mansoura, Dakahlia, Egypt
 - **Education:** Graduated from the Faculty of Computers and Information, Mansoura University, majoring in Computer Science (CS).
-- **Website:** https://my-portfolio-7bp1.vercel.app/#contact
+- **Website:** https://my-portfolio-7bp1.vercel.app
 ## Skills
 - **Backend Development:**
   - Laravel
